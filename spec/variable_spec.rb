@@ -10,5 +10,5 @@ describe "./variable.rb" do
 end
 def greeting
   greeting => "Hello World"
-  
+
 end
